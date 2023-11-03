@@ -1,0 +1,31 @@
+Hey, you! Need a basic breakout board for a weird component you want to try in your Arduino project? Can you handle basic through-hole soldering, but wouldn't know where to get started designing your own breakout circuit board? Download one of my simple breakout boards, get it made and sent to yourself for a few bucks, and continue on with your project!
+
+THE FILES
+
+So far this collection includes:
+
+- A PS/2 socket breakout - add the ability to interface and communicate with a PS/2 keyboard or mouse!
+
+WHAT TO DO WITH THEM
+
+All you need to do is:
+1. Download the .zip file for the breakout you want (it contains several files that define the board, its layout and text etc)
+2. Upload that file to somewhere that makes PCBs - some options are AISLER in Europe, OSHPark in the US and JLCPCB in China
+3. Basically click next with all default options until they ask for a mailing address and some money
+4. They'll manufacture a few (3-5) copies of that breakout board and post them to you
+5. Order the matching parts to solder to the board (from eBay, AliExpress, or your local electronics supply place if they have the part you want)
+6. Once everything arrives, solder your part(s) to your board, and continue developing your project!
+
+THE FINE PRINT
+                                                    
+Every breakout board in this repository was designed by me and used in some project or other of my own. Each file is available for download under a "CC-BY" license; use them in your projects, modify them for your own use, get them made for other people, do whatever you like with them - just credit me for their use in your project by linking to this page to make it easier for others to find them and use them as well!
+
+While each design here has been (at some point) made into an actual board and used in one of my personal hobby projects, and thus should generally work, I make no guarantee about them working in your project or particular use case. Feel free to get in touch (gmail dot com, timixretroplays at) if you're not totally sure.
+
+If you've come here hoping to find a board, but I haven't made/uploaded one for the particular part you're interested in using, also get in touch - chances are I might be able to whip one up for you. As long as I can find a "footprint" for it that's compatible with Fritzing (or it's simple enough to reproduce using dimensions and normal through-holes and so on), I'll give it a go. There's no cost to doing this, except that I have to fit it into whatever my schedule is at the time, and the result will be shared for free in this repository.
+
+WHY NOT JUST LEARN PCB DESIGN? IT'S NOT THAT HARD!
+
+One word: Time. If I'd had a resource like this, with simple breakout boards I could download and have made for my own projects, I'd be years ahead of where I am in terms of making stuff. PCB design only seems trivial once you've done it before; IMHO, most tools and tutorials are at a level way above what most "Arduino hobbyists" will ever need. I've taught myself some basics out of necessity, in order to make the simple boards you see here, and I wish I'd had a resource like this repository a decade ago.
+
+If you'd *like* to learn PCB design, good for you; my simple breakouts might even be a great way to start, by just opening them in whatever software you can find and dragging stuff around to get a feel for what happens. If all you want to do is find an easy way to plug a PS/2 keyboard into your Pro Micro, well, that's what this repository is for.
